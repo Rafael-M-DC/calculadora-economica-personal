@@ -43,6 +43,38 @@ El programa calcula:
 - [ ] Gráficas de proyección con matplotlib
 - [ ] Interfaz gráfica con tkinter
 
+**Fecha**: Agosto 2026  
+
+
+
+## 📊 Versión con Gráficas
+
+Ahora hay una versión mejorada que genera gráficas automáticas:
+
+```bash
+python Calculadora_con_graficas.py
+```
+
+### Características de la versión con gráficas
+
+- 📈 **Gráfica de Proyección**: Visualiza cómo crecen tus ahorros en el tiempo
+- 📊 **Gráfica de Ahorros Anuales**: Compara cuánto ahorras cada año
+- 💾 **Exportación**: Las gráficas se guardan como `proyeccion_ahorros.png`
+
+### Instalación de matplotlib
+
+```bash
+pip install matplotlib
+```
+
+### Ejemplo de salida
+
+El programa genera dos gráficas:
+1. Línea de tendencia con área sombreada (proyección total)
+2. Gráfica de barras (ahorros por año)
+
+**Fecha**: Septiembre 2026  
+
 ---
 
 ## 🤝 Contribuciones
@@ -53,6 +85,5 @@ El programa calcula:
 
 Este proyecto es de código abierto bajo licencia MIT.
 
-**Autor**: Rafael Medina  
-**Fecha**: Agosto 2026  
+**Autor**: Rafael Medina
 **Ubicación**: Arequipa, Perú
