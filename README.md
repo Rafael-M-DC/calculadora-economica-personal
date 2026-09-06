@@ -18,7 +18,7 @@ Una herramienta interactiva para proyectar tus ahorros considerando inflación e
 ### Ejecución
 
 ```bash
-python calculadora.py
+python Calculadora Economica Personal 1.0.py
 ```
 
 El programa te pedirá:
@@ -44,6 +44,14 @@ El programa calcula:
 - [ ] Interfaz gráfica con tkinter
 
 ---
+
+## 🤝 Contribuciones
+
+¡Las contribuciones son bienvenidas! Siéntete libre de hacer fork del proyecto.
+
+## 📝 Licencia
+
+Este proyecto es de código abierto bajo licencia MIT.
 
 **Autor**: Rafael Medina  
 **Fecha**: Agosto 2026  
