@@ -75,7 +75,7 @@ El programa genera dos gráficas:
 
 ## 📈 Próximas mejoras
 
-- [✅] Gráficas de proyección con matplotlib
+✅ Gráficas de proyección con matplotlib
 - [ ] Interfaz gráfica con tkinter
 - [ ] Exportar a CSV
 
