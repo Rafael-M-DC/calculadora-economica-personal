@@ -45,7 +45,7 @@ El programa calcula:
 
 **Fecha**: Agosto 2026  
 
-
+---
 
 ## 📊 Versión con Gráficas
 
@@ -73,6 +73,12 @@ El programa genera dos gráficas:
 1. Línea de tendencia con área sombreada (proyección total)
 2. Gráfica de barras (ahorros por año)
 
+## 📈 Próximas mejoras
+
+- [✅] Gráficas de proyección con matplotlib
+- [ ] Interfaz gráfica con tkinter
+- [ ] Exportar a CSV
+
 **Fecha**: Septiembre 2026  
 
 ---
@@ -84,6 +90,8 @@ El programa genera dos gráficas:
 ## 📝 Licencia
 
 Este proyecto es de código abierto bajo licencia MIT.
+
+---
 
 **Autor**: Rafael Medina
 **Ubicación**: Arequipa, Perú
