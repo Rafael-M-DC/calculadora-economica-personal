@@ -94,3 +94,4 @@ Este proyecto es de código abierto bajo licencia MIT.
 ---
 
 **Autor**: Rafael Medina
+**Ubicación**: Arequipa, Perú
